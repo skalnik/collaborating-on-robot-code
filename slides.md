@@ -1,4 +1,4 @@
-# Collaborating on Robot Code
+#[fit] Collaborating on Robot Code
 ## @skalnik
 ## GitHub
 
@@ -82,7 +82,7 @@ So if you have 2 people working on the drivetrain software, you can make a team 
 
 ---
 
-# Demo Time
+#[fit]Demo Time
 
 ---
 
