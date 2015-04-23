@@ -19,6 +19,7 @@ When you find a bug, you can go through your history to find where it was introd
 
 # Ok, neat!
 ## But, how do I use it?
+^ First lets define a couple terms
 
 ---
 
