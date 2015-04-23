@@ -93,5 +93,10 @@ So if you have 2 people working on the drivetrain software, you can make a team 
 * [Hardwired Fusion (708)](https://github.com/Team708/2015-Banshee)
 * [So many more…](https://github.com/search?q=FRC+2015)
 
+---
+
+#Thank you!
+##Slides available at [github.com/skalnik/collaborating-on-robot-code](http://github.com/skalnik/collaborating-on-robot-code)
+
 ^These may be a useful reference in the future
 ^2994 - They keep things like their ideas and notes in their repo! https://github.com/FRC2994/FRC-2015/blob/master/ideas/statemachine_1.jpg
